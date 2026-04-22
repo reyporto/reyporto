@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 👋 Hola, soy Reinaldo Porto
 
 ### FullStack Developer · Node.js · React · Java · SpringBoot
